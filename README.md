@@ -28,7 +28,7 @@ This portfolio demonstrates end-to-end Agile execution through high-level planni
 ---
 
 ### Product Backlog & User Stories
-  A prioritized Product Backlog containing user stories written in the format *“As a \<role>, I want \<capability>, so that \<benefit>.”
+  A prioritized Product Backlog containing user stories written in the format “As a \<role>, I want \<capability>, so that \<benefit>.”
   Translates user needs into actionable, value-focused requirements and supports incremental delivery and scope management.
 
 ---
