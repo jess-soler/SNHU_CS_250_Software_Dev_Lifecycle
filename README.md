@@ -1,4 +1,4 @@
-# SNHU CS-250 Agile & Scrum Portfolio Artifact
+# SNHU CS-250 Agile & Scrum Artifact Portfolio
 
 ## Reflection
 
