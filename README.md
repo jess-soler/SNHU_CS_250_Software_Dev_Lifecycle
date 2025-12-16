@@ -21,7 +21,7 @@ This portfolio demonstrates end-to-end Agile execution through high-level planni
 
 ---
 
-### 📄 Team Charter
+### Team Charter
   Defines the Scrum Team’s working agreements, communication norms, values, and expectations for collaboration and accountability. 
   Establishes team alignment and reinforces Scrum values such as commitment, respect, and openness.
 
